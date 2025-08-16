@@ -1,0 +1,13 @@
+opencv-python
+Pillow
+google-api-python-client
+google-auth-oauthlib
+google-auth
+sounddevice
+scipy
+scikit-learn
+numpy
+pandas
+PyPDF2
+python-docx
+pywin32
